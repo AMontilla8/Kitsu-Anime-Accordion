@@ -14,6 +14,6 @@ Just Run the HTML file and it will pop up in your browser.
 
 ## Authors
 
-* **Anderson Guerrero** - *Anderson Montilla agmontilla08@gmail.com* 
+* **Anderson Guerrero** - *agmontilla08@gmail.com* 
 
 
