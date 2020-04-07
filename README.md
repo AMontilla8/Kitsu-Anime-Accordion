@@ -14,6 +14,6 @@ Just Run the HTML file and it will pop up in your browser.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Anderson Guerrero** - *Anderson Montilla agmontilla08@gmail.com* 
 
-Anderson Montilla agmontilla08@gmail.com
+
