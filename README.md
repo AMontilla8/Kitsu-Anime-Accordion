@@ -1,6 +1,6 @@
 https://amontilla8.github.io/Kitsu-Anime-Accordion/
-Project 3
 
+Project 3
 ## Kitsu-Anime-Accordion
 
 This is my First website with an Accordian Style and Javascript implimentent, also fetching from an Api to Display its Contect.
